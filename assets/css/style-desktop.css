@@ -119,3 +119,12 @@ text-align: center;
     padding-left: 200px;    
     margin: 0 auto;
 }
+.blockquote{
+    font-style: italic;
+}
+.cite{
+    font-style: normal;
+}
+.hr{
+    width: 40%;
+}

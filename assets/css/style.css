@@ -49,6 +49,7 @@ header {
 
 .intestazione {
     background-image: url(../images/banner.jpg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 20px;
@@ -101,4 +102,14 @@ link{
 footer a:link, footer a:visited{
     color: white;
     
+}
+.blockquote{
+    font-style: italic;
+}
+.cite{
+    font-style: normal;
+}
+
+.hr{
+    width: 40%;
 }

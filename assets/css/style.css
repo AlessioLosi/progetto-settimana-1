@@ -1,0 +1,17 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+header{
+    background-color: black;
+}
+.intestazione {
+    background-image: url(https://github.com/AlessioLosi/progetto-settimana-1/blob/main/assets/images/banner.jpg);
+}

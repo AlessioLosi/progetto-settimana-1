@@ -11,7 +11,53 @@
 
 header{
     background-color: black;
+    padding: 10%;
+    
+
 }
+.partiamo{
+    background-color: #fb4b2b;
+    color:white;
+    padding: 10px;
+    margin: 20px 20px;
+    border-radius: 5%;
+    text-decoration: none;
+    line-height: 4;
+}
+
 .intestazione {
-    background-image: url(https://github.com/AlessioLosi/progetto-settimana-1/blob/main/assets/images/banner.jpg);
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
 }
+    
+.notebook{
+    width: 50% ;
+    margin: auto;
+    border-radius: 50%;
+}
+.block{
+    padding: 10%;
+    margin: 20px 0px;
+    background-color:#e22d0e;
+    color: white;
+}
+.image{
+    width:100%;
+}
+
+
+.bordi{
+    margin: 20px;;
+    border:1px solid #dee1e3;
+    border-end-end-radius:5% ;
+    border-end-start-radius: 5%;
+}
+footer{
+    background-color: #25a2c3;
+    color:white;
+}
+
+.footer
+

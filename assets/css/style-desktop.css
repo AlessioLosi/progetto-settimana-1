@@ -55,6 +55,8 @@ header {
     height: 30%;
     border-radius: 50%;
     display: inline-block;
+    margin-bottom: 50px;
+
 }
 
 .block {
@@ -111,4 +113,9 @@ text-align: center;
 .logo{
     text-align: left;
     width: 50px;
+}
+.principale
+{
+    padding-left: 200px;    
+    margin: 0 auto;
 }

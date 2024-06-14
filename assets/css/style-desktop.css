@@ -1,0 +1,114 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    align-items: center;
+
+}
+
+body {
+    color: #393d41;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+}
+
+header {
+    background-color: black;
+}
+
+.titoli,
+.footer {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1;
+    font-size: larger;
+}
+
+.titoli {
+    color: #25a2c3;
+}
+
+.partiamo {
+    background-color: #fb4b2b;
+    color: white;
+    padding: 10px;
+    margin: 20px 20px;
+    border-radius: 5%;
+    text-decoration: none;
+    line-height: 4;
+}
+
+.intestazione {
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.notebook {
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.block {
+    background-color: #e22d0e;
+    color: white;
+}
+
+.image{
+    width: 100%;
+}
+
+.bordi {
+    display: inline-block;
+    margin: 20px 10px;
+    width: 29%;
+    border: 1px solid #dee1e3;
+    border-end-end-radius: 5%;
+    border-end-start-radius: 5%;;
+
+}
+
+footer {
+    background-color: #25a2c3;
+    color: white;
+}
+
+.footer {
+    color:white;
+    font-size: larger;
+}
+link{
+    color: white;
+    text-decoration: none;
+
+}
+.material-symbols-outlined{
+    background-color: white;
+    color:#25a2c3 ;
+    border-radius: 20%;
+}
+footer a:link, footer a:visited{
+    color: white;
+    
+}
+.display {
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    margin-left: 40px;
+}
+.centro, .intestazione, .block{
+text-align: center;
+}
+.logo{
+    text-align: left;
+    width: 50px;
+}

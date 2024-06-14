@@ -30,6 +30,7 @@ header {
     font-weight: 700;
     font-style: normal;
     line-height: 3;
+    font-size: larger;
 }
 
 .titoli {
@@ -85,5 +86,20 @@ footer {
 }
 
 .footer {
+    color:white;
+    font-size: larger;
+}
+link{
     color: white;
+    text-decoration: none;
+
+}
+.material-symbols-outlined{
+    background-color: white;
+    color:#25a2c3 ;
+    border-radius: 20%;
+}
+footer a:link, footer a:visited{
+    color: white;
+    
 }

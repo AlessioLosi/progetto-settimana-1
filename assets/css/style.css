@@ -61,7 +61,7 @@ header {
 }
 
 .block {
-    padding: 10%;
+    padding: 20px;
     margin: 20px 0px;
     background-color: #e22d0e;
     color: white;
@@ -73,8 +73,7 @@ header {
 
 
 .bordi {
-    margin: 20px;
-    ;
+    margin: 80px;
     border: 1px solid #dee1e3;
     border-end-end-radius: 5%;
     border-end-start-radius: 5%;
